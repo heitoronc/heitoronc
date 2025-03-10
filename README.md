@@ -1,6 +1,6 @@
-👋 Olá, seja bem-vindo ao meu GitHub!
-Sou um Desenvolvedor Back-End em formação, apaixonado por tecnologia e programação. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e focando em Java, Spring Boot e APIs REST.
+👋 Hello, welcome to my GitHub!
+I'm a Back-End Developer in training, passionate about technology and programming. I'm currently studying Systems Analysis and Development and focusing on C#, .NET, and REST APIs.
 
-🚀 Busco aprimorar minhas habilidades, colaborar em projetos e crescer profissionalmente na área.
+🚀 I'm looking to improve my skills, collaborate on projects, and grow professionally in the field.
 
-📫 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+📫 Feel free to explore my repositories and connect with me!
