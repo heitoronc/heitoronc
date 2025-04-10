@@ -26,7 +26,7 @@ Currently diving into the books by Uncle Bob:
 
 ---
 
-## 🛠️ 🎓 Education & Courses
+## 🎓 Education & Courses
 
 [![UAM](https://img.shields.io/badge/Anhembi%20Morumbi-007D8A?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.anhembi.br)
 [![FIAP](https://img.shields.io/badge/FIAP-E91D62?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fiap.com.br)
