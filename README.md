@@ -1,70 +1,62 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB6M3l0M3gyMnMyZmlmYWF0MnB0dnlqcjA1eTZseDNlM2VkODl6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB6M3l0M3gyMnMyZmlmYWF0MnB0dnlqcjA1eTZseDNlM2VkODl6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif" />
 </div>
 
-###
+---
 
-<h1 align="left"># 👋 Hey there! I'm Heitor</h1>
+# 👋 Hey there! I'm Heitor
 
-###
+## 🧑‍💻 About Me
 
-<h2 align="left">About me</h2>
+🎓 Software Analysis and Development student at Anhembi Morumbi University  
+💻 Focused on **back-end development with C#**  
+🔁 Always looking to improve my code and learn new technologies  
+📦 Background in inventory and sales – organized, communicative, and proactive  
+🌱 Currently learning: **.NET, OOP, clean code, and software architecture**  
+🎯 Current focus: mastering back-end development with C# and programming best practices  
 
-###
+---
 
-<p align="left">🎓 Software Analysis and Development student at Anhembi Morumbi University  <br>💻 Focused on **back-end development with C#**  <br>🔁 Always looking to improve my code and learn new technologies  <br>📦 Background in inventory and sales – organized, communicative, and proactive  <br>🌱 Currently learning: **.NET, OOP, clean code, and software architecture**<br>🎯 Current focus: mastering back-end development with C# and programming best practices.</p>
+## 📚 What I'm Reading
 
-###
+Currently diving into the books by Uncle Bob:  
+- *Clean Architecture*  
+- *Clean Code*  
+- *The Clean Coder*
 
-<h4 align="left">## 📚 What I'm Reading</h4>
+---
 
-###
+## 🛠️ 🎓 Education & Courses
 
-<p align="left">Currently diving into the books by Uncle Bob:<br>- *Clean Architecture*<br>- *Clean Code*<br>- *The Clean Coder*</p>
+[![UAM](https://img.shields.io/badge/Anhembi%20Morumbi-007D8A?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.anhembi.br)
+[![FIAP](https://img.shields.io/badge/FIAP-E91D62?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fiap.com.br)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-###
 
-<h2 align="left">## 🛠️ Learning Tools & Technologies</h2>
+---
 
-###
+## 🛠️ Learning Tools & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###
+---
 
-<h2 align="left">## 🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-###
+🔹 [C# Cheat Sheet on Notion](https://notion.so) *(work in progress)*  
+🔹 [Mini C# Registration System](#) *(coming soon on GitHub!)*
 
-<p align="left">🔹 [C# Cheat Sheet on Notion](https://notion.so) *(work in progress)*  <br>🔹 [Mini C# Registration System](#) *(coming soon on GitHub!)*</p>
+---
 
-###
+## 📬 Social Lounge
 
-<h2 align="left">
-### 📬 Social Lounge</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/heitornobrega1997/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/heitor_nobrega" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/30197585/heitor-nobrega" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitornobrega1997)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/heitor_nobrega)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30197585/heitor-nobrega)
