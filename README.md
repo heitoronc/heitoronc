@@ -9,11 +9,12 @@
 ## 🧑‍💻 About Me
 
 🎓 Software Analysis and Development student at Anhembi Morumbi University  
-💻 Focused on **back-end development with C#**  
+💻 Focused on back-end development with C#  
 🔁 Always looking to improve my code and learn new technologies  
 📦 Background in inventory and sales – organized, communicative, and proactive  
-🌱 Currently learning: **.NET, OOP, clean code, and software architecture**  
-🎯 Current focus: mastering back-end development with C# and programming best practices  
+🌱 Currently learning: .NET, OOP, clean code, and software architecture  
+🔐 Starting to explore the cybersecurity field, learning Python and cybersecurity techniques  
+🎯 Current focus: mastering back-end development with C#, programming best practices, and expanding into cybersecurity
 
 ---
 
@@ -38,20 +39,47 @@ Currently diving into the books by Uncle Bob:
 
 ## 🛠️ Learning Tools & Technologies
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💻 Programming Languages
 
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🧰 Platforms & Tools
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+---
+
+## 🛡️ Cybersecurity Tools & Learning
+
+### 🧰 Security Tools & Environments
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### ☁️ DevSecOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎓 Learning Platforms
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ---
 
 ## 🚀 Featured Projects
 
-🔹 [C# Cheat Sheet on Notion](https://notion.so) *(work in progress)*  
-🔹 [Mini C# Registration System](#) *(coming soon on GitHub!)*
+🆔 [Simple-Login-System](#) *(in development – C#)*<br>
+🔐 [Password-Generator](#) *(in development – C# / Python)*<br>
+🤖 [Simple-Chatbot](#) *(in development – Python)*
 
 ---
 
